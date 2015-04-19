@@ -1,0 +1,10 @@
+Checking for a newer version of Activator (current version 1.3.2)...
+   ... our current version 1.3.2 looks like the latest.
+Found previous process id: 27567
+Local repository: activator-launcher-local @ file:/home/takeru/activator-1.3.2/repository
+Local repository: activator-local @ file:/home/takeru/activator-1.3.2/repository
+Play server process ID is 6891
+[[37minfo[0m] play - Application started (Prod)
+[[37minfo[0m] play - Listening for HTTP on /127.0.0.1:8888
+[[37minfo[0m] a.e.s.Slf4jLogger - Slf4jLogger started
+[[37minfo[0m] application - onStop received closing down the app

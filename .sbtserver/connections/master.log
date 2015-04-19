@@ -1,0 +1,7 @@
+New log file opened at Sat Apr 18 15:43:18 JST 2015 by 7020@takeshi911.com
+Taking next connection to: 43212
+New client attempting to connect on port: 52682-43212
+  Address = /219.94.241.62:43212
+This client on port 52682 has uuid d6270b30-776c-4f41-b8b3-8a57db1621d2 configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-d6270b30-776c-4f41-b8b3-8a57db1621d2
+Taking next connection to: 43212
